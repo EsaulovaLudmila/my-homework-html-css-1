@@ -35,3 +35,34 @@ button {
   text-transform: uppercase;
   color: #ffffff;
 }
+
+/* === Стили для 1-й секции === */
+
+.main-title {
+  color: #363940;
+  font-size: 58px;
+  font-weight: 500;
+  line-height: 68px;
+  margin-bottom: 30px;
+}
+
+.text {
+  color: #95a1bb;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  margin-bottom: 40px;
+}
+
+.button {
+  width: 152px;
+  height: 50px;
+  border-radius: 4px;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 1.4px;
+  text-align: center;
+  background: #0a61f7;
+}
