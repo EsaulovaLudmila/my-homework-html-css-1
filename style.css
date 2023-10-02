@@ -140,3 +140,9 @@ td {
 .table-footer td {
   padding: 30px 0;
 }
+
+/* === Стили для 2-й секции === */
+
+.create-account-section {
+  padding: 100px 0;
+}
